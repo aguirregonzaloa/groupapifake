@@ -1,0 +1,13 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "title": "Team 1",
+      "description": "Este es un grupo de desarrollo web",
+      "lenguaje": "Javascript"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
